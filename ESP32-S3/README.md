@@ -1,1 +1,1 @@
-# Microcontroller PCB and Schematic files
+# Microcontroller PCB, Schematic and BOM files
