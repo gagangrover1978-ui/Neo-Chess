@@ -1,1 +1,1 @@
-# Chessboard PCB and Schematic files
+# Chessboard PCB Schematic, and BOM files
