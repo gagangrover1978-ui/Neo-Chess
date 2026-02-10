@@ -1,6 +1,6 @@
 # Neo-Chess: 8x8 RFID Matrix & ESP32-S3 System
 
-Neo-Chess is a high-density automated chessboard system designed for real-time piece tracking and move validation.
+This project is a glimpse into the future of Chess. It implements a 64-channel, multiplexed NFC matrix to keep track of the game. Using ESP32 at its heart, it uses web sockets to send moves to a Django-based website in real time, where the move is validated by python-chess library and played on a virtual chessboard while Stockfish analyses and predicts the game. In doing so, this project effectively bridges the gap between physical play and digital intelligence.
 
 ## 🛠 Technical Specifications
 * **Controller:** ESP32-S3
